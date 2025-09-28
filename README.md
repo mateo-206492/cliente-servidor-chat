@@ -1,4 +1,4 @@
-# Sistema de Chat cliente-servidor
+# Sistema de Chat IRC Cliente-Servidor
 
 Este proyecto consiste en la implementación de un sistema de chat basado en arquitectura cliente-servidor, desarrollado como trabajo práctico para la materia **Algoritmos y Programación [TA130]** de la carrera de Ingeniería Electrónica.
 
